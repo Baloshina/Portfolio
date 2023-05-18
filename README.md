@@ -20,4 +20,4 @@ In this repository (Portfolio) are samples of works of testing in the various se
 - checklists and test cases (web and mobile) 
 - link on bug reports
 
-I am ready to provide more details more detailed results of the work for analyzing the results.
+I am ready to provide more information of work for analyzing the results.
